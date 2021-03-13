@@ -23,5 +23,14 @@
   "bugs": {
     "url": "https://github.com/dwkns/11ty-plugin-og-image-generator/issues"
   },
-  "homepage": "https://github.com/dwkns/11ty-plugin-og-image-generator#readme"
+  "homepage": "https://github.com/dwkns/11ty-plugin-og-image-generator#readme",
+  "eslintConfig": {
+    
+    "env": {
+      "commonjs": true,
+      "node": true,
+      "browser": true,
+
+    }
+  }
 }
