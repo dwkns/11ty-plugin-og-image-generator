@@ -1,6 +1,6 @@
 {
   "name": "11ty-plugin-og-image-generator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Automatically create OG images from your 11ty pages",
   "main": "index.js",
   "scripts": {
@@ -25,13 +25,11 @@
   },
   "homepage": "https://github.com/dwkns/11ty-plugin-og-image-generator#readme",
   "eslintConfig": {
-    
     "env": {
       "commonjs": true,
       "node": true,
       "browser": true,
       "es6": true
-
     }
   }
 }
