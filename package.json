@@ -2,7 +2,7 @@
   "name": "11ty-plugin-og-image-generator",
   "version": "0.0.3",
   "description": "Automatically create OG images from your 11ty pages",
-  "main": "index.js",
+  "main": ".eleventy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
@@ -13,9 +13,9 @@
     "url": "git+https://github.com/dwkns/11ty-plugin-og-image-generator.git"
   },
   "keywords": [
-    "hello",
-    "world",
-    "hello-world"
+    "11ty",
+    "11ty-plugin",
+    "Open graph"
   ],
   "bin": {
     "hello-world-npm": "./bin.js"
